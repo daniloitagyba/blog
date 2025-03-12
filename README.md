@@ -1,7 +1,5 @@
 # Modern Full-Stack React Project
 
-_Preparing For Full-Stack Development_
-
 ## Requirements
 
 Please install the following, if you do not already have them installed:
